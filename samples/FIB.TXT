@@ -1,0 +1,11 @@
+« → n
+  «
+    0 1
+    IF n 0 > THEN
+      1 n START
+        SWAP OVER +
+      NEXT
+    END
+    DROP
+  »
+»
